@@ -1,0 +1,1 @@
+You can use 'git clone' command to clone a repository into a newly created directory and create a branch that is forked from the cloned repository's currently active branch.
