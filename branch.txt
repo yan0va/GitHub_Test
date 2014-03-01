@@ -1,1 +1,1 @@
-A branch is an independent line of development, that originates from either the master branch, or other branches that have been previously created. 
+A branch is an independent line of development that originates from either the master branch or other branches that have been previously created. 
