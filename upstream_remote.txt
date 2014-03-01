@@ -1,1 +1,1 @@
-You set up an 'upstream remote' in order to monitor the original respository that you cloned. When you make changes, you usually want to send them back 'upstream' so that everyone pulling from the same source is working with all the same changes. 
+You set up an upstream remote in order to monitor the original respository that you cloned. When you make changes, you usually want to send them back (upstream) so that everyone pulling from the same source is working with all the same changes. 
